@@ -1,0 +1,154 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(111, 74, 52);
+    margin: 0;
+    color: black;
+    padding: 0 20px
+}
+
+header {
+    background-color: rgb(82, 55, 40);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+    margin: 16px;
+    background-color: rgb(56, 35, 20);
+    border-radius: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: 600;
+    color: aliceblue;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.title {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(56, 35, 20);
+    border-radius: 15px;
+    margin: 25px;
+    padding: 15px;
+    color: antiquewhite;
+}
+
+.info {
+    margin-top: 25px;
+
+}
+
+spase {
+    background-color: rgb(86, 52, 34);
+}
+
+.img1 {
+    height: 200px;
+    width: 200px;
+    transition: 1s;
+    filter: blur(2px);
+    opacity: 50%;
+    
+}
+
+.img1:hover {
+    transform: scale(1.5);
+    border-radius: 50px;
+    filter: blur(0);
+    opacity: 100%;
+    box-shadow: 20px 20px 10px black;
+}
+
+.img2 {
+    height: 200px;
+    width: 200px;
+    transition: 1s;
+    filter: blur(2px);
+    opacity: 50%;
+}
+
+.img2:hover {
+    transform: scale(1.5);
+    border-radius: 50px;
+    filter: blur(0);
+    opacity: 100%;
+    box-shadow: 20px 20px 10px black;
+}
+
+.img3 {
+    height: 200px;
+    width: 200px;
+    transition: 1s;
+    filter: blur(2px);
+    opacity: 50%;
+}
+
+.img3:hover {
+    transform: scale(1.5);
+    border-radius: 50px;
+    filter: blur(0);
+    opacity: 100%;
+    box-shadow: 20px 20px 10px black;
+    
+}
+
+.img4 {
+    height: 200px;
+    width: 200px;
+    transition: 1s;
+    filter: blur(2px);
+    opacity: 50%;
+}
+
+.img4:hover {
+    transform: scale(1.5);
+    border-radius: 50px;
+    filter: blur(0);
+    opacity: 100%;
+    box-shadow: 20px 20px 10px black;
+    
+}
+
+.img5 {
+    height: 200px;
+    width: 200px;
+    transition: 1s;
+    filter: blur(2px);
+    opacity: 50%;
+}
+
+.img5:hover {
+    transform: scale(1.5);
+    border-radius: 50px;
+    filter: blur(0);
+    opacity: 100%;
+    box-shadow: 20px 20px 10px black;
+    
+}
+
+
+.img6 {
+    height: 200px;
+    width: 200px;
+    transition: 1s;
+    filter: blur(2px);
+    opacity: 50%;
+}
+
+.img6:hover {
+    transform: scale(1.5);
+    border-radius: 50px;
+    filter: blur(0);
+    opacity: 100%;
+    box-shadow: 20px 20px 10px black;
+    
+}
